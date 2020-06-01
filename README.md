@@ -10,7 +10,7 @@ El programa _data_clean.py_ (escrit en Python 3.7) realitza un procés de neteja
 
 El codi present a _data_clean.py_ fa ús dels següents mòduls:
 
-* _numpys_: s'utilitza per a operacions amb arrays.
+* _numpy_: s'utilitza per a operacions amb arrays.
 
 * _pandas_: s'utilitza per a crear i gestionar DataFrames.
 
