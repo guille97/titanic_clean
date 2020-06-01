@@ -40,4 +40,4 @@ on el [nom_mòdul] és l'utilitzat a la llista anterior.
 
 * _README.md_: aquest arxiu.
 
-* _M2.951_20192_Pràctica2.pdf_: pdf amb les respostes de la pràctica.
+* _M2.951_Camps_Pons_Guillermo_PRA2.pdf_: pdf amb les respostes de la pràctica.
